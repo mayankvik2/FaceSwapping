@@ -1,4 +1,8 @@
 # FaceSwapping
+
+![alt text](https://github.com/mayankvik2/FaceSwapping/blob/master/Face%20Swapping.JPG)
+[Project Demo](https://www.linkedin.com/feed/update/urn:li:activity:6452232127734996992)
+
 In this post I wrote a Python script to automatically replace facial features on an image of a face, with the facial features from a second image of a face.
 The process breaks down into three steps:
 
